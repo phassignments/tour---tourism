@@ -1,0 +1,92 @@
+[
+  {
+    "spot": "Santorini,Greece",
+    "img": "https://github.com/phassignments/A11/blob/main/Greece.jpg?raw=true",
+    "cost": 390,
+    "extraCost": 65,
+    "duration": " from greece 4",
+    "description": "Santorini is one of the Cyclades islands in the Aegean Sea. It was devastated by a volcanic eruption in the 16th century BC, forever shaping its rugged landscape. The whitewashed, cubiform houses of its 2 principal towns, Fira and Oia, cling to cliffs above an underwater caldera (crater). They overlook the sea, small islands to the west and beaches made up of black, red and white lava pebbles.",
+    "transport": " Luxurious, fully air-conditioned Mercedez minivan with professional driver"
+  },
+  {
+    "spot": "Mountan Fuji, Japan",
+    "img": "https://github.com/phassignments/A11/blob/main/Japan.jpg?raw=true",
+    "cost": 294.96,
+    "extraCost": 150,
+    "duration": "from tokyo 2h 15m",
+    "description": "Japan’s Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called “Fuji-san,” it’s the country’s tallest peak, at 3,776 meters. A pilgrimage site for centuries, it’s considered one of Japan’s 3 sacred mountains, and summit hikes remain a popular activity. Its iconic profile is the subject of numerous works of art, notably Edo Period prints by Hokusai and Hiroshige. ",
+    "transport": "Fuji Excursion Limited Express train"
+  },
+  {
+    "spot": "Austria, HallStatt Lake",
+    "img": "https://github.com/phassignments/A11/blob/main/Austria.jpg?raw=true",
+    "cost": 450,
+    "extraCost": 80,
+    "duration": "from Austria 2.35",
+    "transport": "Bus,Night Train",
+    "description": "Since about 1970/1980 the only ship-mail-line of Austria[1] crossed the lake from the railway on the east shore to the town in the west. In winters the road on the west shore tended to be blocked by high snow or the risk of avalanches. When the ice on the lake was thick enough, a sled pulled by men or horses, later a motorized track vehicle was used to transport mail and persons."
+  },
+  {
+    "spot": "Lago de Sanabria (Zamora), Spain",
+    "img": "https://i.ibb.co/s1tC3Zq/245710542-4476931379065676-8882752559731589217-n.jpg",
+    "cost": 368,
+    "extraCost": 45,
+    "duration": "from spain 1",
+    "description": "The Sanabria Lake in Zamora is one of the biggest in Spain, and in Europe. It measures 1.5 kilometers wide, 3 kilometers long, and has a depth of around 50 meters. Because of the many different types of water activities on the lake, the area is full of hundreds of people enjoying themselves on the water.",
+    "transport": "Train,Taxi,Car"
+  },
+  {
+    "spot": "Romania Coastal Escape",
+    "img": "https://github.com/phassignments/A11/blob/main/Romania.jpg?raw=true",
+    "cost": 650,
+    "extraCost": 50,
+    "duration": "from romania 4",
+    "description": "The Romanian coastline stretches from the Danube Delta, a one-of-a-kind attraction in Europe, to the Bulgarian Black Sea Coast. You will find a variety of seaside resorts in Romania. Big or small, extravagant or hippie, luxurious oraffordable, the summer resorts in Romania meet the needs of every type of traveler.",
+    "transport": "Train,Bus,Car"
+  },
+  {
+    "spot": "Isle of Skye,Scotland",
+    "img": "https://github.com/phassignments/A11/blob/main/Scotland.jpg?raw=true",
+    "cost": 850,
+    "extraCost": 54,
+    "duration": "from scotland 3.35",
+    "description": "IsleofSkye  the ultimate guide to the Isle of Skye in the Highlands of Scotland. Helping visitors find some where to stay from our large selection of Accommodation, we have listings for Bed and Breakfast, Self-Catering Cottages, Campsites and HotelsOur Skye Guide has an expanding collection of Activities and Attractions.If you would like a walking guide, boat trip or an arts or craft gallery you will find it here.",
+    "transport": "Train"
+  },
+  {
+    "spot": "Antalya, Turkey",
+    "img": "https://i.ibb.co/r6cMXsP/119202228-3333240160101476-5371586618881407003-n.jpg",
+    "cost": 680,
+    "extraCost": 65,
+    "duration": "from istanbul 1.30",
+    "description": "Antalya is a Turkish resort city with a yacht-filled Old Harbor and beaches flanked by large hotels. Its a gateway to Turkeys southern Mediterranean region, known as the Turquoise Coast for its blue waters. Remnants remain from Antalyas time as a major Roman port. These include Hadrian’s Gate, built to honor the Roman emperor’s visit in 130 A.D and 2nd-century Hidirlik Tower, with harbor views.",
+    "transport": "Aeroflot Russian Airlines AYT ➝ SAW"
+  },
+  {
+    "spot": "Kashmir valley, India",
+    "img": "https://github.com/phassignments/A11/blob/main/India.jpg?raw=true",
+    "cost": 520,
+    "extraCost": 69,
+    "duration": "from delhi by road 23h 47m",
+    "description": "The Kashmir Valley, also known as the Vale of Kashmir, is an intermontane valley in Kashmir. It is in a region administered by India as the union territory of Jammu and Kashmir, which has been the subject of a dispute between India and Pakistan.",
+    "transport": "Air,Train,Taxi,bus"
+  },
+  {
+    "spot": "Niagara Falls, Canada",
+    "img": "https://github.com/phassignments/A11/blob/main/Canada.jpg?raw=true",
+    "cost": 1120,
+    "extraCost": 620,
+    "duration": "from toronto 2h 1m",
+    "description": "Niagara Falls, Ontario, is a Canadian city at the famous waterfalls of the same name, linked with the U.S. by the Rainbow Bridge. Its site on the Niagara River's western shore overlooks the Horseshoe Falls, the cascades' most expansive section. Elevators take visitors to a lower, wetter vantage point behind the falls. A cliffside park features a promenade alongside 520-ft.-high Skylon Tower with an observation deck.",
+    "transport": "bus"
+  },
+  {
+    "spot": "Metropolitan Museum of Art,New York",
+    "img": "https://github.com/phassignments/A11/blob/main/New%20York.jpg?raw=true",
+    "cost": 25,
+    "extraCost": 12,
+    "duration": "from main city 2h",
+    "description": "The gigantic Metropolitan Museum of Art [most commonly referred to as The Met], is the largest art museum in the United States. It’s a fantastic place for visitors to the city to absorb some incredible pieces of art.No matter what your arty tastes are, there are many collections, spanning a variety of world cultures, artistic styles and historical timelines.You could spend hours wandering the halls taking in all the Islamic, Greek, Egyptian, Indian and Byzantine artworks.General admission is $25 for adults, $12 for students, children under 12 go in for free.",
+    "transport": "Train"
+  }
+]

@@ -1,0 +1,10 @@
+.careousel img{
+    height: 500px;
+    margin-bottom: -50px;
+}
+
+@media screen and (max-width: 668px){
+    .careousel img{
+        height: 250px;
+    }
+}
